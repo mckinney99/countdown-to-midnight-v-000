@@ -7,6 +7,5 @@ end
 #write your code here
 
 def countdown
-end
 puts "HAPPY NEW YEAR!"
 end
